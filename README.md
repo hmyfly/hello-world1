@@ -1,4 +1,3 @@
 hello-world1
 ============
-
-practice first repository
+hi github, i really like this place.
